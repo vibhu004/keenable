@@ -1,7 +1,12 @@
-# Passion
+<div style="background-image: url('11bg.jpg'); color:#f5f5f5; font-size:18px;">
+
+# <center> Passion </center>
+<!-- <div style="background-image: url('bg.jpg'); color:	#f5f5dc"> -->
 Well the standard defination of passion according to Google is "a strong feeling or emotion" but I have read somewhere that passion is something "for which you can suffer".Passion is something for which you can sacrifice yourself to make it come true. At this point of time in my life I haven't discovered anything for which i can sacrifice myself to make it happen or come true but maybe in future i will discover something who knows after all future is unpredictable. It can unfold in many million ways.
+
 ***
-## Anime One Of The Best Art
+<!-- ![bg](bg.jpg "Title") -->
+## <marquee> Anime One Of The Best Art </marquee>
 Anime (In Japanese, the term anime is used to refer to all animated works, regardless of style or origin) However qualifies the standard defination of Google for me as Anime is a world in its own. Its fascinating how Anime confront us about human tendency, nature, psyche and much more. Some people think that anime is for kids well that's not true very much Infact anime can be watched by any person. It has something for everyone.
 
 
