@@ -1,7 +1,7 @@
 <h1 align=center> Other Service Analysis</h1>
 
 <div align="center">
-    <img src="rahultv.jpg" alt="img" width=500/>
+    <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/rahul.jpg" alt="img" width=500/>
  </div> 
 <div align="center">
     <a href="https://7labs.io/a/whatsapp-direct/#dial_code=+91&phone=9560113322"><img alt="WhatsApp" src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/whatsapp.gif" height=100/></a>  
