@@ -1,11 +1,9 @@
 <div style="background-image: url('https://raw.githubusercontent.com/vibhu004/supportingfiles/main/11bg.jpg'); color:#f5f5dc; font-size:18px; text-align: justify"><em>
-
-# <span style ="color:#deeaee"><center> Passion </center></span>
+<h1 align="center"> Passion </h1>
 Well the standard defination of passion according to Google is "a strong feeling or emotion" but I have read somewhere that passion is something "for which you can suffer".Passion is something for which you can sacrifice yourself to make it come true. At this point of time in my life I haven't discovered anything for which i can sacrifice myself to make it happen or come true but maybe in future i will discover something who knows after all future is unpredictable. It can unfold in many million ways.
 
-## <center> Anime One Of The Best Art </center>
+<h2 align="center"> Anime One Of The Best Art </h2>
 Anime (In Japanese, the term anime is used to refer to all animated works, regardless of style or origin) However qualifies the standard defination of Google for me as Anime is a world in its own. Its fascinating how Anime confront us about human tendency, nature, psyche and much more. Some people think that anime is for kids well that's not true very much Infact anime can be watched by any person. It has something for everyone.
-
 
 Anime can teach about you life much more than your formal school education. Almost 90% of movies have villan(The Bad Guy) but not many films shows the character development of villian. They just shows that he/she is bad and wants to harm others. But no one is born that way anime shows the backstory of villian also why he/she ended up that way. How they were also intially same as rest of us. I think that's one of the reason why most anime watchers sometimes like the bad guy more than the protagonist. Like movies anime comes in different genre different lengths some are currently streaming at above 1000+ episodes some are only 20 episode but sometimes a anime tells the story so beautifully in less episodes that it's story stays with you forever.
 
