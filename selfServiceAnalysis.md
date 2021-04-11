@@ -1,10 +1,21 @@
-# Self Service Analysis
+<h1 align="center"> Self Service Analysis </h1>
+
+<p  align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=vibhu004.vibhu004" alt="visitorbadge"/>
+</p>
 
 
-Content of Analysis | Details
------------- | -------------
-Best Liked Readme.md on github | will be updated shortly after taking a look at some Readme.md as a reference point
-Status of self created Readme.md | Satisfactory
-Improvements to be made on self created Readme.md | Little bit of styling
-Description of Self Analysis | I have successfully completed the assignment with the proper guidance of Indu Mam who told precisely what to do and as a reference given me the stylesheet link which helped me a lot. Prior to this task i don't known anything about markdown language but after completing this task i know a little bit about markdown language and want to explore more about it.
+<p  align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vibhu004" alt="mystats"/>
+</p>
+
+|***SrNo.***| ***Content Of Analysis***  |    ***Details***  |
+| :---: | :------: | :-----: |
+|`1`|**Best liked Readme.md on github**|<a href="#"><img src="https://media.tenor.com/images/79ba5610643d4176ab75e2ed6c34e764/tenor.gif" width=80 /></a> ![Best Readme MarkDown file](#) |                       |
+|
+|`2`|**Status of self Created Readme.md**|    ⭐⭐⭐⭐  |
+|`3`|**Improvements to be made on Self Created Readme.md** | More functionalities|
+|`4`|**Description of Self Analysis**                      | I have successfully completed the assignment with the proper guidance of Indu Mam who told precisely what to do and as a reference given me the stylesheet link which helped me a lot. Prior to this task i don't known anything about markdown language but after completing this task now i know more about markdown language than before|
+|`5`|**Reported Completion to Indu Mam on mail** | Apr 9, 2021, 21:02  |
+
 
