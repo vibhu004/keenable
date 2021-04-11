@@ -11,7 +11,5 @@ Anime can teach about you life much more than your formal school education. Almo
 
 Apart from that almost all anime have intro and outro song which are epic and legendary in its own way. Voice over artists make anime characters come to life and you will feel connected to characters from the first few episodes inspite of the fact they speak Japnese. In Japan they also have made themes park based on some popular animes which are one of the hot spot of visitors who come to visit Japan. My journey started with [Dragon Ball](https://www.google.com/search?channel=fs&client=ubuntu&q=dragon+ball) but after that I have watched many best anime and continue to hope to watch many more which are yet to come. Once you start watching anime you will watch less movies and other entertainment stuff that's what i have experienced with myself. </em>
 
-<center>
-<h3> <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/bijli.gif" width="30px">Get Connected<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/bijli.gif" width="30px"></h3>
-<a href="mailto:vatsv070@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/mail.gif" alt="logo" height="30" width="40"></a>
-</center>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/bijli.gif" width="30px">Get Connected<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/bijli.gif" width="30px"></h3>
+<p align="center"><a href="mailto:vatsv070@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/mail.gif" alt="logo" height="30" width="40"></a></p>
