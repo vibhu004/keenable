@@ -6,7 +6,7 @@
 
 
 <p  align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vibhu004" alt="mystats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vibhu004&show_icons=true&theme=highcontrast" alt="mystats"/>
 </p>
 
 |***SrNo.***| ***Content Of Analysis***  |    ***Details***  |
