@@ -13,6 +13,15 @@
 
 ------------
 
+<p  align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=vibhu004.vibhu004" alt="visitorbadge"/>
+</p>
+
+
+<p  align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vibhu004&show_icons=true&theme=highcontrast" alt="mystats"/>
+</p>
+
 <details>
 <summary><h2 align="center">🅴🅳🆄🅲🅰🆃🅸🅾🅽</h2></summary>
 <br>
