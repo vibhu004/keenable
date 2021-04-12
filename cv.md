@@ -1,9 +1,9 @@
 <h1 align="center">🇻‌🇦‌🇮‌🇧‌🇭‌🇦‌🇻‌ 🇻‌🇦‌🇹‌🇸‌ </h1>
 
 ------------
-<a href="https://wa.me/+919255817930?text=Hello+vaibhav%2C"><img src="iconn.gif" alt="phone" height="40" width="40"></a> 
+<a href="https://wa.me/+919255817930?text=Hello+vaibhav%2C"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/iconn.gif" alt="phone" height="40" width="40"></a> 
 <a href="mailto:vatsv070@gmail.com"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/mail.gif" alt="logo" height="40" width="40"></a> 
-<a href="https://goo.gl/maps/WiXJxAVJt47DPuwR8"><img src="map.gif" height="40" width="40"></a>
+<a href="https://goo.gl/maps/WiXJxAVJt47DPuwR8"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/map.gif" height="40" width="40"></a>
 
 `+91 92558-17930`
 
@@ -23,10 +23,10 @@
 
 <h2 align="center">🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂</h2>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="py.png" height="70" width="70">&nbsp;&nbsp;&nbsp;
-<img src="c++.png" height="70" width="70">&nbsp;&nbsp;&nbsp;
-<img src="c.png" height="70" width="70"><br>
-<img src="html.jpg" height="150" width="250">
+<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/py.png" height="70" width="70">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c%2B%2B.png" height="70" width="70">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c.png" height="70" width="70"><br>
+<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/html.jpg" height="150" width="250">
 
 ------------
 
