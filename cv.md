@@ -22,10 +22,11 @@
 ------------
 
 <h2 align="center">🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂</h2>    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/py.png" height="70" width="70"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c%2B%2B.png" height="70" width="70">
-<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c.png" height="70" width="70"><br>
-<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/html.jpg" height="150" width="250">
+
+<a href="https://www.google.com/search?channel=fs&client=ubuntu&q=python"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/py.png" height="70" width="70"></a>
+<a href="https://g.co/kgs/ESynvu"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c%2B%2B.png" height="70" width="70"></a>
+<a href="https://g.co/kgs/kRghUa"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c.png" height="70" width="70"></a><br>
+<a href="https://www.w3schools.com/howto/default_page5.asp"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/html.jpg" height="150" width="250"></a>
 
 ------------
 
