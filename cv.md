@@ -13,29 +13,34 @@
 
 ------------
 
-<h2 align="center">🅴🅳🆄🅲🅰🆃🅸🅾🅽</h2>
-
+<details>
+<summary><h2 align="center">🅴🅳🆄🅲🅰🆃🅸🅾🅽</h2></summary>
+<br>
+  
 - **BCA** from Maharaja Agrasen University, Himachal Pradesh in 2020
 - **10+2** from Vijaya Senior Secondary School(CBSE), Bahadurgarh in 2017
 - **10th** from Vijaya Senior Secondary School(CBSE), Bahadurgarh in 2015
+</details>
 
 ------------
 
-<h2 align="center">🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂</h2>    
-
+<details>
+<summary><h2 align="center">🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂</h2>
+</summary>  
+<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=python"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/py.png" height="70" width="70"></a>
 <a href="https://g.co/kgs/ESynvu"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c%2B%2B.png" height="70" width="70"></a>
 <a href="https://g.co/kgs/kRghUa"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c.png" height="70" width="70"></a><br>
 <a href="https://www.w3schools.com/howto/default_page5.asp"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/html.jpg" height="150" width="250"></a>
+</details>
 
 ------------
 
 <details>
-<summary><h2>🅟🅐🅢🅢🅘🅞🅝</h2></summary>
+<summary><h2 align="center">🅟🅐🅢🅢🅘🅞🅝</h2></summary>
 <br>
 <em>
-<h1 align="center"> Passion </h1>
 Well the standard defination of passion according to Google is "a strong feeling or emotion" but I have read somewhere that passion is something "for which you can suffer".Passion is something for which you can sacrifice yourself to make it come true. At this point of time in my life I haven't discovered anything for which i can sacrifice myself to make it happen or come true but maybe in future i will discover something who knows after all future is unpredictable. It can unfold in many million ways.
 
 <h2 align="center"> Anime One Of The Best Art </h2>
