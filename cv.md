@@ -23,6 +23,7 @@
 
 <h2 align="center">🆃🅴🅲🅷🅽🅸🅲🅰🅻 🆂🅺🅸🅻🅻🆂</h2>    
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.google.com/search?channel=fs&client=ubuntu&q=python"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/py.png" height="70" width="70"></a>
 <a href="https://g.co/kgs/ESynvu"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c%2B%2B.png" height="70" width="70"></a>
 <a href="https://g.co/kgs/kRghUa"><img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/c.png" height="70" width="70"></a><br>
