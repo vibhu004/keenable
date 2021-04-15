@@ -107,8 +107,10 @@ AVERAGE( number1, [number2], ... )
 <!-- During this activity i learned about how a complex problem is solved by breaking it into smaller parts which makes it easy to understand and easy to solve.
 This exercise was very interesting i also learned about VLOOKUP() function and its proper application to map a table for look up which is quite awesome and about conditional formatting and applied it to the best of my understanding. -->
 
-## 𝓓𝓾𝓻𝓲𝓷𝓰 𝓽𝓱𝓲𝓼 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 𝓲 𝓵𝓮𝓪𝓻𝓷𝓮𝓭 𝓪𝓫𝓸𝓾𝓽 𝓱𝓸𝔀 𝓪 𝓬𝓸𝓶𝓹𝓵𝓮𝔁 𝓹𝓻𝓸𝓫𝓵𝓮𝓶 𝓲𝓼 𝓼𝓸𝓵𝓿𝓮𝓭 𝓫𝔂 𝓫𝓻𝓮𝓪𝓴𝓲𝓷𝓰 𝓲𝓽 𝓲𝓷𝓽𝓸 𝓼𝓶𝓪𝓵𝓵𝓮𝓻 𝓹𝓪𝓻𝓽𝓼 𝔀𝓱𝓲𝓬𝓱 𝓶𝓪𝓴𝓮𝓼 𝓲𝓽 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭 𝓪𝓷𝓭 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓼𝓸𝓵𝓿𝓮 𝓣𝓱𝓲𝓼 𝓮𝔁𝓮𝓻𝓬𝓲𝓼𝓮 𝔀𝓪𝓼 𝓿𝓮𝓻𝔂 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓲𝓷𝓰 𝓲 𝓪𝓵𝓼𝓸 𝓵𝓮𝓪𝓻𝓷𝓮𝓭 𝓪𝓫𝓸𝓾𝓽 ```𝓥𝓛𝓞𝓞𝓚𝓤𝓟()``` 𝓯𝓾𝓷𝓬𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓲𝓽𝓼 𝓹𝓻𝓸𝓹𝓮𝓻 𝓪𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓽𝓸 𝓶𝓪𝓹 𝓪 𝓽𝓪𝓫𝓵𝓮 𝓯𝓸𝓻 𝓵𝓸𝓸𝓴 𝓾𝓹 𝔀𝓱𝓲𝓬𝓱 𝓲𝓼 𝓺𝓾𝓲𝓽𝓮 𝓪𝔀𝓮𝓼𝓸𝓶𝓮 𝓪𝓷𝓭 𝓪𝓫𝓸𝓾𝓽 ```𝓒𝓸𝓷𝓭𝓲𝓽𝓲𝓸𝓷𝓪𝓵 𝓕𝓸𝓻𝓶𝓪𝓽𝓽𝓲𝓷𝓰``` 𝓪𝓷𝓭 𝓪𝓹𝓹𝓵𝓲𝓮𝓭 𝓲𝓽 𝓽𝓸 𝓽𝓱𝓮 𝓫𝓮𝓼𝓽 𝓸𝓯 𝓶𝔂 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭𝓲𝓷𝓰.
-</details>
+## 𝓢𝓾𝓬𝓬𝓮𝓼𝓯𝓾𝓵𝓵𝔂 𝓬𝓸𝓶𝓹𝓵𝓮𝓽𝓮𝓭 𝓽𝓱𝓮 𝓽𝓪𝓼𝓴 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮 𝓱𝓮𝓵𝓹 𝓸𝓯 𝓥𝓛𝓞𝓞𝓚𝓤𝓟(), 𝓢𝓤𝓜(), 𝓐𝓥𝓔𝓡𝓐𝓖𝓔() 𝓪𝓷𝓭 𝓒𝓸𝓷𝓭𝓲𝓽𝓸𝓷𝓪𝓵 𝓕𝓸𝓻𝓶𝓪𝓽𝓽𝓲𝓷𝓰.
+
+<!--## 𝓓𝓾𝓻𝓲𝓷𝓰 𝓽𝓱𝓲𝓼 𝓪𝓬𝓽𝓲𝓿𝓲𝓽𝔂 𝓲 𝓵𝓮𝓪𝓻𝓷𝓮𝓭 𝓪𝓫𝓸𝓾𝓽 𝓱𝓸𝔀 𝓪 𝓬𝓸𝓶𝓹𝓵𝓮𝔁 𝓹𝓻𝓸𝓫𝓵𝓮𝓶 𝓲𝓼 𝓼𝓸𝓵𝓿𝓮𝓭 𝓫𝔂 𝓫𝓻𝓮𝓪𝓴𝓲𝓷𝓰 𝓲𝓽 𝓲𝓷𝓽𝓸 𝓼𝓶𝓪𝓵𝓵𝓮𝓻 𝓹𝓪𝓻𝓽𝓼 𝔀𝓱𝓲𝓬𝓱 𝓶𝓪𝓴𝓮𝓼 𝓲𝓽 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭 𝓪𝓷𝓭 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓼𝓸𝓵𝓿𝓮 𝓣𝓱𝓲𝓼 𝓮𝔁𝓮𝓻𝓬𝓲𝓼𝓮 𝔀𝓪𝓼 𝓿𝓮𝓻𝔂 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓲𝓷𝓰 𝓲 𝓪𝓵𝓼𝓸 𝓵𝓮𝓪𝓻𝓷𝓮𝓭 𝓪𝓫𝓸𝓾𝓽 ```𝓥𝓛𝓞𝓞𝓚𝓤𝓟()``` 𝓯𝓾𝓷𝓬𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓲𝓽𝓼 𝓹𝓻𝓸𝓹𝓮𝓻 𝓪𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓽𝓸 𝓶𝓪𝓹 𝓪 𝓽𝓪𝓫𝓵𝓮 𝓯𝓸𝓻 𝓵𝓸𝓸𝓴 𝓾𝓹 𝔀𝓱𝓲𝓬𝓱 𝓲𝓼 𝓺𝓾𝓲𝓽𝓮 𝓪𝔀𝓮𝓼𝓸𝓶𝓮 𝓪𝓷𝓭 𝓪𝓫𝓸𝓾𝓽 ```𝓒𝓸𝓷𝓭𝓲𝓽𝓲𝓸𝓷𝓪𝓵 𝓕𝓸𝓻𝓶𝓪𝓽𝓽𝓲𝓷𝓰``` 𝓪𝓷𝓭 𝓪𝓹𝓹𝓵𝓲𝓮𝓭 𝓲𝓽 𝓽𝓸 𝓽𝓱𝓮 𝓫𝓮𝓼𝓽 𝓸𝓯 𝓶𝔂 𝓾𝓷𝓭𝓮𝓻𝓼𝓽𝓪𝓷𝓭𝓲𝓷𝓰.
+</details> -->
 
 
 <!-- =VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE) -->
