@@ -25,7 +25,7 @@ The objective of script are as follows:
 |Image&nbsp;For Test Case|Description| Image  |
 | :------------: | :------------: | :------------: |
 |`TC01`|Dropdown menu for selecting document and its format i.e. Comma-seprated values(.csv) in our case| <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/publish.png" alt="sample image" height=280 width=400> |
-|`TC02`|Sample link showing how our link will look like|<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/link.png">|
+|`TC02`|Sample link showing how our link will look like|<img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/link.png" height=79>|
 |`TC03`|Output in desired format| <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/output.png">  |
 |`TC04`|Using > to save above shown output in a file named output1.csv. Here spreadsheet1.csv is downloaded csv and output1.csv is the new csv after manipulating original downloaded csv| <img src="https://raw.githubusercontent.com/vibhu004/supportingfiles/main/redirect.png">  |
 </details>
