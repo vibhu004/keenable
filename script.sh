@@ -21,7 +21,7 @@ $WGET -O spreadsheet2.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQCD
 
 
 $AWK -F "," 'NR==4, NR==24{print"Name: " $2,"\n Avg:",$11,"\n Sum:",$11*8,"\n"}' spreadsheet1.csv > output1.csv
-$AWK -F "," 'NR==4, NR==24{print"Name: " $2,"\n Avg:",$11,"\n Sum:",$11*8,"\n"}' spreadsheet2.csv > output1.csv
+$AWK -F "," 'NR==4, NR==24{print"Name: " $2,"\n Avg:",$11,"\n Sum:",$11*8,"\n"}' spreadsheet2.csv > output2.csv
 $ECHO
 $ECHO "*************** This is data from SpreadSheet1 ***************" 
 $ECHO
