@@ -1,0 +1,39 @@
+Task ---,Evaluation Based on MD file of self and other team members.,,,,,,,,,
+S No,Intern Name,Skills,,,,,,,,
+,,Punctuality,Time management,Attendance,Communication,Requirement analysis,Self Learning,Grammatical error,Creativity,Average
+1,Himanshu Gupta, , , , , , , , , 
+2,Habib Ali, , , ,  , , , , , 
+3,Anil Sharma, , , , , , , , , 
+4,Sonu Singh, , , , , , , , , 
+5,Ranveer Singh,Very good,Very good,Excellent,Very good,Good,Good,Good,Good,3.625
+6,Somesh Kumar,Very good,Very good,Excellent,Very good,Good,Good,Very good,Good,3.75
+7,Harsh kumar,Very good,Very good,Excellent,Good,Good,Good,Fair,Satisfactory,3.125
+8,SK Sahjahan,Very good,Very good,Excellent,Good,Good,Good,Very good,Very good,3.75
+9,Harikesh,Very good,Very good,Very good,Good,Good,Good,Very good,Good,3.5
+10,Himanshu Pundir, , , , , , , , , 
+11,Dharamveer,Very good,Excellent,Excellent,Good,Good,Good,Good,Good,3.625
+12,Rishabh,Very good,Excellent,Excellent,Good,Good,Good,Very good,Good,3.75
+13,Pravesh Singh,Very good,Very good,Excellent,Good,Good,Good,Very good,Good,3.625
+14,Aman Jha,Very good,Very good,Excellent,Good,Good,Satisfactory,Fair,Satisfactory,3
+15,Pawan Kumar, , , , , , ,N/A, , 
+16,Tarun Kumar, , , , , , , , , 
+17,Bittu(OPJ), , , , , , , , , 
+18,Aayon Mukherjee,Very good,Very good,Excellent,Good,Good,Good,Good,Good,3.5
+19,Vaibhav Vats,Very good,Very good,Excellent,Very good,Good,Good,Very good,Good,3.75
+20,Shweta Mishra,Very good,Very good,Excellent,Poor,Fair,Satisfactory,Fair,Satisfactory,2.375
+21,Amandeep,Very good,Very good,Excellent,Satisfactory,Good,Good,Good,Good,3.375
+,,,,,,,,,,
+NOTE:- Fields marked with N/A is applied to those who were absent during class or whose MD file was not submitted,,,,,,,,,,
+       Highlighting average less than 2.5 with red and average above 3.7 with green.,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Words,Values,,,,,,,,,
+Poor,0,,,,,,,,,
+Fair,1,,,,,,,,,
+Satisfactory,2,,,,,,,,,
+Good,3,,,,,,,,,
+Very good,4,,,,,,,,,
+Excellent,5,,,,,,,,,
