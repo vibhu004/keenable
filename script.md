@@ -7,6 +7,11 @@ The objective of script are as follows:
 * Manipulating csv file to take only desired data
 * Saving the desired data in new file in required output format i.e `Name : abc Average : aa Sum : bb`
 
+<details>
+<summary>𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗</summary>
+ I have used `wget` command to download csv from google spreadsheet link and used `awk` command to manipulate data from downloaded csv and then stored the new output using redirection operator`>` in `awk` command.
+</details>
+
 </details>
 <details>
 <summary><h1 align="center">Ｔｅｓｔ ｃａｓｅｓ</h1></summary>
