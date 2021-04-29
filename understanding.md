@@ -1,4 +1,4 @@
-<h1 align="center">🇺‌🇳‌🇩‌🇪‌🇷‌🇸‌🇹‌🇦‌🇳‌🇩‌🇮‌🇳‌🇬‌ 🇫‌🇮‌🇱‌🇪‌</h2> 
+<h1 align="center">🇺‌🇳‌🇩‌🇪‌🇷‌🇸‌🇹‌🇦‌🇳‌🇩‌🇮‌🇳‌🇬‌ 🇫‌🇮‌🇱‌🇪‌</h1> 
 
 <h2 align="center">OBJECTIVE</h2> 
 
@@ -9,7 +9,8 @@
 <br>
 Name: abc<br>
 Avg: aa <br>
-Sum: bb</h3>
+Sum: bb
+</h3>
 
 <h2 align="center">UNDERSTANDING</h2>
 <h3 align=center> We have given a new task to create a new script which is testing the previous script according to different test cases, whether it pass or fail as per assessment. So that we can know how much reliable is our script.</h3>
