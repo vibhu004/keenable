@@ -2,18 +2,18 @@
 
 <h2 align="center">OBJECTIVE</h2> 
 
- <h3 align="center"> To write a test script which can test our script.sh against different test cases and tell how much reliable is our script.sh </h3>
+ <p align="center"> To write a test script which can test our script.sh against different test cases and tell how much reliable is our script.sh </p>
  
  <h2 align="center">OVERVIEW OF SCRIPT.SH</h2> 
-<h3>We are downloading two google spreadsheet in csv format and then manipulating the downloaded csv to get the output in below format.
+<p>We are downloading two google spreadsheet in csv format and then manipulating the downloaded csv to get the output in below format.
 <br>
 Name: abc<br>
 Avg: aa <br>
 Sum: bb
-</h3>
+</p>
 
 <h2 align="center">UNDERSTANDING</h2>
-<h3 align=center> We have given a new task to create a new script which is testing the previous script according to different test cases, whether it pass or fail as per assessment. So that we can know how much reliable is our script.</h3>
+<p align=center> We have given a new task to create a new script which is testing the previous script according to different test cases, whether it pass or fail as per assessment. So that we can know how much reliable is our script.</p>
   
    |Sr No.|Test Cases|Condition|
    |:----:|:----:|:----:|
