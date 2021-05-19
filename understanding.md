@@ -24,6 +24,8 @@ Sum: bb
    |5|If Config file is linked to the Script and logs are generated for the script|Pass or Fail|
 -->
 <h1 align="center"> TEST CASES </h1>
+
+
 |  Test Case ID |   Test Scenario |   Test Description|  Expected Results |  Actual Results | Pass/Fail  |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 |`TC01` | Comparing exact without changes| Comparing outputs of both the file without any changes in the spreadsheet| Same output of both the file  | Same output  |  Pass |
