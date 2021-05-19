@@ -34,6 +34,11 @@ Sum: bb
 |`TC04` | Adding Row  |  Comparing output after adding a row | Same output of both the file | Same output  |  Pass |
 |`TC05` | Deleting Row  | Comparing output after deleting a row  | Same output of both the file  | Same output  | Pass  |
 
+
+### Conclusion 
+We have successfully compared the ouput in different scenarios of scrip.sh with our testscript.sh
+
+
  
 
 
