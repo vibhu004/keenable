@@ -36,7 +36,7 @@ Sum: bb
 
 
 ### Conclusion 
-We have successfully compared the ouput in different scenarios of scrip.sh with our testscript.sh
+We have successfully compared the output in different scenarios of script.sh with our testscript.sh
 
 
  
