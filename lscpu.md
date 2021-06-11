@@ -1,4 +1,4 @@
-<h1 align="center"> LSCPU </h1>
+<h1 align="center"> 🇱‌🇸‌🇨‌🇵‌🇺‌ </h1>
 
 <p>
 LSCPU - Displays information about the CPU architecture
