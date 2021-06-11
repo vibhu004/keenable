@@ -56,3 +56,6 @@ LSCPU - Displays information about the CPU architecture
 |Vulnerability Srbds            | Vulnerable: No microcode|
 |Vulnerability Tsx async abort   |Not affected|
 
+Click below to see source code of lscpu :-
+[Source Code ](https://github.com/karelzak/util-linux/blob/master/sys-utils/lscpu.c "Source Code ")
+
